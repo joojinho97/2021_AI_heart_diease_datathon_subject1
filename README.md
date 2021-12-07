@@ -13,8 +13,9 @@ image-classifiers == 1.0.*
 efficientnet == 1.0.*
 
 colab에서 사용.
+코랩에서는 그냥 train.ipynb파일을 실행시키면 문제 없음
 
-이외 라이브러리는 requirements.txt 참조.
+이외 window환경으로 사용할 시 requirements.txt 참조.
 
 dataaugmentation.ipynb를 활용하여 dataaugmentation
 A2C_train.ipynb, A4C_train.ipynb를 활용하여 전처리, 학습, 테스트를 진행함
