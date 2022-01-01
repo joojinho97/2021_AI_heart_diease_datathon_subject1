@@ -25,6 +25,7 @@ https://drive.google.com/drive/folders/1ZBjXiY53j7IX4nC71vV_066d_AgoWhqc?usp=sha
 17등으로 마감
 
 입상 컷 1.89 (A2C / A4C 각각의 (Jaccard index + Dice Coefficient)의 평균
+
 PLML팀 점수 1.858 
 
 대략 2%정도 차이를 보였음.
