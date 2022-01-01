@@ -32,9 +32,12 @@ PLML팀 점수 1.858
 
 아쉬운 점.
 
-기간이 짧아서 모델 앙상블을 고려하지 않은 점.
-augmentation에서 좌우 이동만을 고려한 점.
-심초음파 CT이미지에서 HU(Hounce field Unit)를 고려하지 않은 점.
+1. 기간이 짧아서 모델 앙상블을 고려하지 않은 점.
+
+2. augmentation에서 좌우 이동만을 고려한 점.
+
+3. 심초음파 CT이미지에서 HU(Hounce field Unit)를 고려하지 않은 점.
+
 
 
 
