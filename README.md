@@ -48,7 +48,7 @@ PLML팀 점수 1.858
 3. 심초음파 CT이미지에서 HU(Hounce field Unit)를 고려하지 않은 점.
 
 
-
+ 
 
 
 
