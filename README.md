@@ -4,7 +4,7 @@ efficientnet 기반 유넷사용
 
 https://github.com/qubvel/segmentation_models
 
-유넷 필수 라이브러리 버전
+유넷 필수 라이브러리 버전 
 
 python 3
 
